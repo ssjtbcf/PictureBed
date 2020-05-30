@@ -1,2 +1,2 @@
 # PictureBed
-图床
+图床工具使用PicGo
